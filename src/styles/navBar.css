@@ -1,0 +1,5 @@
+.navBarEnd{
+    display: flex !important;
+    /* flex-direction: row-reverse !important; */
+    align-items: flex-end;
+}
